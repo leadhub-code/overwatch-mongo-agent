@@ -1,6 +1,8 @@
 Overwatch MongoDB agent
 =======================
 
+[![CircleCI](https://circleci.com/gh/leadhub-code/overwatch-mongo-agent/tree/master.svg?style=svg&circle-token=2e9fdcd2eb3f29c848ef41078af719f03379b5f4)](https://circleci.com/gh/leadhub-code/overwatch-mongo-agent/tree/master)
+
 Checks status of MongoDB instances and reports it to [Overwatch Hub](https://github.com/leadhub-code/overwatch-hub).
 
 For description what is this all about see [the description of Overwatch monitoring](https://github.com/leadhub-code/overwatch-monitoring/blob/master/README.md).
