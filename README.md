@@ -19,7 +19,7 @@ TODO:
 Feedback and contact
 --------------------
 
-- [open an issue](https://github.com/leadhub-code/overwatch-mongo-agent/issues/new)
+- [open an issue](https://github.com/leadhub-code/overwatch-mongo-agent/issues/new) - even for a question or discussion
 - contact me on [Twitter](https://twitter.com/messa_en) or via e-mail (see [my profile](https://github.com/messa))
 
 
