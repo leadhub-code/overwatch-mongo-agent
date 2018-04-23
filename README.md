@@ -14,6 +14,7 @@ TODO:
 - check serverStatus
 - make sure this agent can detect network connectivity problems
 - check that there is a primary node in a replica set
+- check for COLLSCANs
 
 
 Feedback and contact
